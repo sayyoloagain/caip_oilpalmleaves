@@ -36,7 +36,7 @@ We used <b>Tiny-Yolo-v2</b> model.  Tiny-Yolo-v2 employs feedforward process for
     <td align="center">Testing with Test Dataset</td>
     </tr>
     <tr>
-    <td align="center"><img src="httpshttps://github.com/sayyoloagain/caip_oilpalmleaves/blob/master/OilPalmTest.gif" alt="Test with Testing Dataset" width="80%" height="20%"</td>
+    <td align="center"><img src="https://github.com/sayyoloagain/caip_oilpalmleaves/blob/master/OilPalmTest.gif" alt="Test with Testing Dataset" width="80%" height="20%"</td>
     </tr>
 </table>
 
